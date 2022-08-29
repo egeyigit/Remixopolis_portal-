@@ -1,0 +1,2 @@
+kendi yaratığım react native dosyası firebasede bilmediğim nedenlerden errör verdiği için projenin temeli olarak şu dosyayı kullandım:
+https://github.com/ReactiveKoding/firebase-v9-crud
